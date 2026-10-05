@@ -1,0 +1,28 @@
+# Build output and local ESP-IDF configuration
+build/
+build-*/
+sdkconfig
+sdkconfig.old
+compile_commands.json
+managed_components/
+dependencies.lock
+
+# Locally generated image data; examples generate their test frame in code
+*.bin
+*.elf
+*.map
+*.o
+*.obj
+*.a
+*.lib
+*.zip
+*.log
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
