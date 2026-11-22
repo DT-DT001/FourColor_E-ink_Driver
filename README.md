@@ -69,3 +69,7 @@ python -m unittest discover -s tests -v
 完整刷新在原样机约 19 秒，刷新完成后才能计算图片停留时间。驱动默认刷新超时为 180 秒；不要为了“10 秒停留”将超时设成 10 秒。
 
 参考来源与说明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+## 维护与反馈
+
+本仓库由 [DarkThunder（@DT-DT001）](https://github.com/DT-DT001) 维护。问题和建议可提交到 [Issues](https://github.com/DT-DT001/FourColor_E-ink_Driver/issues)。
